@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working for [Switchfly LLC](https://www.switchfly.com/), [Nearsoft](https://nearsoft.com/).
-- 🌱 I’m currently learning React, Spring.
+- 🌱 I’m currently learning React, Spring, Kotlin, SQL.
 - 📫 How to reach me: [mail](mailto:ariel.isaacm@gmail.com), [twitter](https://twitter.com/overhaul_ai).
-- 🚀 Currently looking for a job 😉
-- ⚡ Fun fact: Nerd, Coffee enthusiast, Did you know the breed between a Buffalo and a Cow is called a Beefalo?
+<!--- 🚀 Currently not looking for a job 😉 -->
+- ⚡ Fun fact: Nerd, Coffee enthusiast
+- 🚀 Want to be an Astronaut
+
+Did you know the breed between a Buffalo and a Cow is called a Beefalo?
