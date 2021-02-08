@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working for [hims](https://www.forhims.com/) & [hers](https://www.forhers.com/).
+- 🔭 I’m currently working at [hims](https://www.forhims.com/) & [hers](https://www.forhers.com/).
 
 - 🏵 [Ex-Switchfly](https://www.switchfly.com/), [Ex-Nearsoft](https://nearsoft.com/).
 - 🌱 I’m currently learning React, Spring, Kotlin, SQL.
