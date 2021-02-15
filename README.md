@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working at [hims](https://www.forhims.com/) & [hers](https://www.forhers.com/).
 
 - 🏵 [Ex-Switchfly](https://www.switchfly.com/), [Ex-Nearsoft](https://nearsoft.com/).
-- 🌱 I’m currently learning React, Spring, Kotlin, SQL.
+- 🌱 I’m currently focusing on React, Spring, Kotlin, SQL.
 - 📫 How to reach me: [mail](mailto:ariel.isaacm@gmail.com), [twitter](https://twitter.com/overhaul_ai).
-- ⚡ Fun fact: Nerd, Coffee enthusiast
+- ⚡ Fun fact: Nerd, Coffee enthusiast <!--TODO write actual fun facts -->
 - 🚀 Want to be an Astronaut
 
 Did you know the breed between a Buffalo and a Cow is called a Beefalo?
